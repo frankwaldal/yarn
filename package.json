@@ -1,0 +1,11 @@
+{
+  "name": "workflow2MA2",
+  "version": "1.0.0",
+  "description": "Yarn task in Workflow 2 MA2",
+  "main": "index.js",
+  "author": "Frank Waldal",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
